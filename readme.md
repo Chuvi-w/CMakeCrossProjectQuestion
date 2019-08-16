@@ -1,4 +1,4 @@
-# Cmake Cross-deivce project sample
+# Cmake Cross-deivce project question
 
 This project doesn't contain any userfull or even workable code
 I've created it to understand how to use CMake in that case.
